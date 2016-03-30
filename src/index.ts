@@ -2,7 +2,6 @@ import "./modules/application/angular/index";
 import "./modules/tweets/angular/index";
 import "./modules/about/angular/index";
 import "angular";
-import "angular-location-update";
 
 // load our default (non specific) css
 import "font-awesome/css/font-awesome.css";
